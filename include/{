@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "status": "error",
+    "code": "100",
+    "message": "No existe Usuario"
+  },
+  "user": {
+    "userid": 2,
+    "name": "Ricardo Bravo",
+    "email": "ricardobravo@outlook.com",
+    "gcmid": "fefef"
+  }
+}
